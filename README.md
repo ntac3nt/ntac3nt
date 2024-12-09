@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/tuananh.svg" width="1200" alt="tuananhdev" />
+  <img src="tuananh.svg" width="1200" alt="tuananhdev" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
