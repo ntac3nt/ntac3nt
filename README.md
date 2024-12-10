@@ -55,5 +55,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="tuananhdev" width="846" height="150" alt="" />
+  <img src="tuananhdev.svg" width="846" height="150" alt="" />
 </a>
