@@ -47,7 +47,7 @@
   <a href="https://www.facebook.com/profile.php?id=61551681764237" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
-  <a href="ntac3ntgiauten@gmail.com" target="top">
+  <a href="mailto:ntac3ntgiauten@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>
 </div>
