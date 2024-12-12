@@ -32,8 +32,10 @@
 <br>
 <div align=center>
   <a href="#" title="Trungquandev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntac3nt&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  </a>"
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntac3nt&exclude_repo=github-readme-stats,anuraghazra.github.io)" />
+  </a>
+  <a href="#" title="Trungquandev">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=ntac3nt&show_icons=true&theme=radical" />
   </a>
 </div>
 
@@ -53,5 +55,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="tuananhdev.svg" width="846" height="150" alt="" />
+  <img src="tuananhdev" width="846" height="150" alt="" />
 </a>
