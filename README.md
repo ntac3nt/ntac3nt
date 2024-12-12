@@ -35,7 +35,8 @@
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntac3nt&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   </a>
   <a href="#" title="Trungquandev">
-    <img align="right" width="434" src="https://github-readme-streak-stats.herokuapp.com/?user=ntac3nt&theme=outrun&hide_border=false" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntac3nt&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  </a>" />
   </a>
 </div>
 
